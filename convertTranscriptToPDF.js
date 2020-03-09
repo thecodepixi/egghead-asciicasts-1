@@ -34,7 +34,7 @@ var markdownpdf = require('markdown-pdf'),
   in the course because the graphql data that comes back doesn't order the lessons correctly.
   
   Running this in the rails console is the best way to get ordered lesson slugs:
-  Series.find("SLUG_OF_COURSE").lessons.rank(:series_row_order).map(&:slug)
+  Series.find(“SLUG_OF_COURSE”).lessons.rank(:series_row_order).pluck(:slug)
 */
 const lessonOrder = []
 
