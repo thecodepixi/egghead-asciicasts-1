@@ -1,3 +1,3 @@
 # Summary
 
-- ["Sleeping Better at Night"]('./lessons/sleeping-better-at-night.md')
+- ["Sleeping Better at Night"]('/lessons/sleeping-better-at-night.md')
