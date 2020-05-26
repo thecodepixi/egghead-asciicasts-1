@@ -1,6 +1,6 @@
 Nader Dabit: [0:00] Welcome to Full Stack Development in the Era of Serverless Computing. This talk is going to be maybe the second time I've given this, but I've actually changed a lot. I gave this in Prague, in the Czech Republic, in October, along the same day, actually, I ended up releasing a open source project I'm going to talk about at the end here.
 
-[0:21] You can find me on dev.to, Twitter, and GitHub @dabit3. This is my Twitter avatar. You may have seen me around. I've written a couple of books. I just wrapped up my second book, "Full Stack Serverless."
+[0:21] You can find me on dev.to, [Twitter](https://www.twitter.com/dabit3), and [GitHub](https://www.github.com/dabit3) @dabit3. This is my Twitter avatar. You may have seen me around. I've written a couple of books. I just wrapped up my second book, "Full Stack Serverless."
 
 [0:32] It's actually available to read already on the O'Reilly platform, but you can't buy it yet in paperback. I think it'll be available for sale maybe in like June, July-ish at the earliest and at the latest November.
 
