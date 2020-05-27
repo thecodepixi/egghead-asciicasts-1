@@ -118,7 +118,7 @@ Josh Doody: [0:02] Great. Thanks a lot for that talk, Mick. Will, thanks for giv
 
 [12:09] Ultimately, you want to use those factors and anything else that comes to mind to figure out what your minimum acceptable salary is, write it down, and make sure that you keep it handy so that once you get the offer and you negotiate the offer, you can use that as a metric to figure out is this good enough for me?
 
-[12:24] Once you get the offer, what do you do? My general rule of thumb is that you should counter-offer somewhere between 10 and 20 percent above the offer they made you. A really simple example would be if they offered you \$50,000 base salary and you're going to counter, your counter should be somewhere between 55 and 60 thousand dollars, which is 10 to 20 percent above it.
+[12:24] Once you get the offer, what do you do? My general rule of thumb is that you should counter-offer somewhere between 10 and 20 percent above the offer they made you. A really simple example would be if they offered you $50,000 base salary and you're going to counter, your counter should be somewhere between 55 and 60 thousand dollars, which is 10 to 20 percent above it.
 
 [12:43] Generally, the way that I look at this is there are two kind of metrics, but the really big one is from your perspective, if you think about the way that they view you as a candidate for this role, that you're now going to negotiate, how badly do they need you to do this role?
 
@@ -142,25 +142,25 @@ Josh Doody: [0:02] Great. Thanks a lot for that talk, Mick. Will, thanks for giv
 
 [14:57] Now I'm saying they've made you an offer and you've counter-offered. You've gone from an infinite world of what they might actually offer you. You don't really know what that number is going to look like. You have a good idea probably if you've done some research, but you may not know specifically what they're going to offer you.
 
-[15:10] You've gone from that to they've made you a specific offer and you've made a specific counteroffer. You've created what I call your negotiating window, your negotiation window. That could look something like this. They made an initial offer. I said \$50,000 earlier, so we'll use that as an example here. Then you counter-offered up here at say \$56,000, so 12 percent above their offer.
+[15:10] You've gone from that to they've made you a specific offer and you've made a specific counteroffer. You've created what I call your negotiating window, your negotiation window. That could look something like this. They made an initial offer. I said $50,000 earlier, so we'll use that as an example here. Then you counter-offered up here at say $56,000, so 12 percent above their offer.
 
-[15:29] Now your window has gone from everything is possible to a nice, small window of 50 to 56 thousand dollars. It's a \$6,000 range. Your job is to figure out how high you can get in this range and to use tactics that will guide you there. You've gone from a really wide range to a narrow range.
+[15:29] Now your window has gone from everything is possible to a nice, small window of 50 to 56 thousand dollars. It's a $6,000 range. Your job is to figure out how high you can get in this range and to use tactics that will guide you there. You've gone from a really wide range to a narrow range.
 
 [15:47] Now is the time that you can plan a more specific second phase of your negotiation. You've counter-offered. That's the first phase. That's the big swing. Where we're going to try and see how much we can move this offer.
 
-[15:57] Now you're going to think, OK, how will they respond to my counteroffer? I've said \$56,000. What am I going to do if they come back at \$55,000, or \$52,000, or they don't move at all? What will I do? How will I respond?
+[15:57] Now you're going to think, OK, how will they respond to my counteroffer? I've said $56,000. What am I going to do if they come back at $55,000, or $52,000, or they don't move at all? What will I do? How will I respond?
 
 [16:08] That's going to be based on your minimum acceptable salary, plus a little bit of art and science to creating tiers here that we're going to look through, that I call increments that you can negotiate. You've narrowed the window. You've got your window 50 to 56.
 
 [16:22] Now before you finalize the negotiation, which will usually happen on a phone call, you want to plan for each of those increments. Let's walk through this. I said 50 to 56 is our new window. You can see that I'm starting at top here.
 
-[16:35] Since we countered at \$56,000, I'm saying if they come up to 55 or 56, which means they either came really close to or they actually met your ask, then you can just say, "You know what? That's good enough for me. When do I start?"
+[16:35] Since we countered at $56,000, I'm saying if they come up to 55 or 56, which means they either came really close to or they actually met your ask, then you can just say, "You know what? That's good enough for me. When do I start?"
 
 [16:47] Hopefully, you ask for enough that you'll be comfortable with a yes. That's part of the minimum acceptable salary. What you're doing here is you're being a good negotiating partner saying if they come really close to what I ask for, even if they don't hit the nail on the head, I'm going to be OK with that. I asked for quite a bit more. They gave it to me and I'm good.
 
-[17:03] Below that, you see this next line is they came up to 53 or 54,000. You might say, "They've come up 3 or 4,000 on base, I wonder if I can get just another \$1,000 a year? That would be great. It's another 100 bucks a month basically that can really help with some small expenses or help me pay for gas on my commute or something like that.
+[17:03] Below that, you see this next line is they came up to 53 or 54,000. You might say, "They've come up 3 or 4,000 on base, I wonder if I can get just another $1,000 a year? That would be great. It's another 100 bucks a month basically that can really help with some small expenses or help me pay for gas on my commute or something like that.
 
-[17:20] You say, "Well, you came up to \$53,500. Can you come up to \$55,000? If you can do that, I'm on board." You'll notice the "on board" line there. Looks like a throwaway, but really what you're signaling to them is if you can do this for me, the negotiation will end. I'm giving you an opportunity to end the negotiation by giving me this thing that I'm asking for.
+[17:20] You say, "Well, you came up to $53,500. Can you come up to $55,000? If you can do that, I'm on board." You'll notice the "on board" line there. Looks like a throwaway, but really what you're signaling to them is if you can do this for me, the negotiation will end. I'm giving you an opportunity to end the negotiation by giving me this thing that I'm asking for.
 
 [17:37] My rule of thumb with this script is you go left or right. The first thing you'll do is you'll figure out what row you're on. Earlier I said they come back at 55, you'll say yes. If they come back at 53 or 53.5 or 54, then you're on that row. You can ignore the other rows that you'll see on the script.
 
@@ -172,11 +172,11 @@ Josh Doody: [0:02] Great. Thanks a lot for that talk, Mick. Will, thanks for giv
 
 [18:25] If they say yes, you're done. If they say no or give you a partial yes, they've moved a little bit but not all the way, then you move on to the last thing, which is often a sign-up bonus for jobs in tech.
 
-[18:34] You might say, "Thanks for working with me on the salary. I appreciate it. I know that you're stuck there. I appreciate the equity that you've offered. I know that you can't be any more flexible there. I wonder if you could include a \$10,000 sign up bonus to help me cover some first-year expenses. If you can do that, then I'm on board."
+[18:34] You might say, "Thanks for working with me on the salary. I appreciate it. I know that you're stuck there. I appreciate the equity that you've offered. I know that you can't be any more flexible there. I wonder if you could include a $10,000 sign up bonus to help me cover some first-year expenses. If you can do that, then I'm on board."
 
 [18:49] That's the strategy here as you go. Pick a row, and then move left to right across the row until you get a yes or you run out of things to ask for. Then you're done. You've got the best version of the offer when you get through that process, you know what it looks like, and now you can consider whether you're actually going to accept it.
 
-[19:04] To complete this example, you can see in the middle, we have another middle row where they've moved on salary a little bit, but they didn't come up all the way to our 56,000 counteroffer (\$52,000). You do the same thing with maybe a different number, sometimes depending on the range that you're looking at.
+[19:04] To complete this example, you can see in the middle, we have another middle row where they've moved on salary a little bit, but they didn't come up all the way to our 56,000 counteroffer ($52,000). You do the same thing with maybe a different number, sometimes depending on the range that you're looking at.
 
 [19:17] Again, they came up a little on salary, you asked for a little more salary, you moved left to right. If you get a yes, you stop, a no or a partial yes, and you continue until you run out of things.
 
@@ -202,7 +202,7 @@ Josh Doody: [0:02] Great. Thanks a lot for that talk, Mick. Will, thanks for giv
 
 [21:39] I usually say, "We're going to incorporate that. We're going to figure out what the best version of this offer is including equity and even maximize equity, if that's something that's important to you," I'm talking to a client.
 
-[21:48] On the other hand, if the equity is not something you can value with real dollars, if it's really early-stage startup, they're offering you 10,000 common stock shares in their company and they value them at \$1 a share or something, I usually weight that significantly less. You can't put a real value on that.
+[21:48] On the other hand, if the equity is not something you can value with real dollars, if it's really early-stage startup, they're offering you 10,000 common stock shares in their company and they value them at $1 a share or something, I usually weight that significantly less. You can't put a real value on that.
 
 [22:04] It's more of a lottery ticket or monopoly money. It might pay off really big. It could also have a negative value to you or zero value to you in the long run.
 
